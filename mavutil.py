@@ -1874,6 +1874,8 @@ mode_mapping_apm = {
     20 : 'QLAND',
     21 : 'QRTL',
     22 : 'QAUTOTUNE',
+    37 : 'AWE_LOITER_3D',
+    38 : 'AWE_EIGHT_SPHERE'
     }
 mode_mapping_acm = {
     0 : 'STABILIZE',
